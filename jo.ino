@@ -4,11 +4,11 @@
 #include "SinricPro.h"
 #include "SinricProBlinds.h"
 
-#define WIFI_SSID            "Galaxy S23 Szili"          // don't change for Wokwi simulation!
-#define WIFI_PASS            "szili123"                 // don't change for Wokwi simulation
-#define APP_KEY              "51cd88ad-ccb7-4146-a98b-ea5c2f2c4d9f"    // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET           "c9511799-77e7-41fe-aec7-308f6b76b887-609a04da-3a85-41e4-a774-25c262b775e5"  // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define BLINDS_ID            "63c6cdbb22e49e3cb5e742da"  // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define WIFI_SSID            "your Wifi"          // don't change for Wokwi simulation!
+#define WIFI_PASS            "    "                 // don't change for Wokwi simulation
+#define APP_KEY              "    "    // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET           "    "  // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define BLINDS_ID            "    "  // Should look like "5dc1564130xxxxxxxxxxxxxx"
 #define BAUD_RATE            115200                 // Change baudrate to your need
 #define FULL_DISTANCE_STEPS  1000                   // Number of steps required to open / close the blind completely
 #define STEPS_PER_REVOLUTION 200                    // Steps per revolution - is used to calculate the speed
